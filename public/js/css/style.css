@@ -1,0 +1,153 @@
+.navbar-nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.book {
+    height: 25px;
+    margin-top: 9px;
+}
+
+.life {
+
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+
+
+.imgg {
+    height: 400px;
+    width: 300px;
+}
+
+.text {
+    width: 300px;
+
+
+
+
+
+}
+
+.img {
+    height: 250px;
+    width: 500px;
+    margin-left: 100px;
+}
+
+.books {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.featured {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.texts {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+
+}
+
+.d-flex {
+    justify-content: space-evenly;
+}
+
+.footertext {
+    width: 300px;
+    margin-top: 50px;
+}
+
+.footer {
+    margin-top: 100px
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+
+.pink {
+    color: pink !important;
+}
+
+
+
+.kkr {
+    margin-left: 150px;
+}
+
+
+.krr {
+    margin-right: 150px;
+}
+
+.nn {
+
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+
+
+}
+
+.cc {
+
+    margin: 10px;
+
+
+
+}
+
+.fo{
+background-color: black;
+
+}
+
+.mb-3{
+    width: 500px;
+}
+
+.mail{
+    width: 500px;
+    margin-left: 900px;
+}
+
+.carrd{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.cardd{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+.groot{
+width: 100px;
+margin-left: 80px;
+}
